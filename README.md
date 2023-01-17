@@ -1,12 +1,10 @@
-[![Anurag's github stats](https://watura-readme.vercel.app/api?username=watura&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://watura-readme.vercel.app/api/top-langs/?username=watura&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 得意分野
 - iOS アプリ開発
+  - Swift 歴 5 年
+    - Swift UI とかにはまだあまりなれていないです。
   - Flutter 歴 3 年
     - Android については、 Flutter 経由での対応はいくつか行っていますが、 Kotlin などでフルでつくったことはないです。
-  - Swift 歴 4 年
-    - ここ1年くらいは Flutter を触っていることが多かったので Swift UI とかにはまだあまりなれていないです。
+
   
 - Firebase
   - Flutter で使うことがほとんどですが、5年ほど使っています
