@@ -1,6 +1,6 @@
 ## 得意分野
 - iOS アプリ開発
-  - Swift 歴 5 年
+  - Swift 歴 7 年
     - Swift UI とかにはまだあまりなれていないです。
   - Flutter 歴 3 年
     - Android については、 Flutter 経由での対応はいくつか行っていますが、 Kotlin などでフルでつくったことはないです。
